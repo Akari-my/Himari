@@ -1,4 +1,4 @@
-![minecraft_title (1](https://github.com/user-attachments/assets/2fe7111a-3dfd-4abe-91de-7390ef2d01b2)
+![minecraft_title (1](https://github.com/user-attachments/assets/9c728b63-2215-4192-8d0d-97b9633b291a)
 
 <p align="center">
   <a href="https://php.net">
