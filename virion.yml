@@ -1,0 +1,5 @@
+name: Himari
+version: 1.0.0
+psr4: "Mellooh\\Himari\\": "src/Mellooh/Himari/"
+bootstrap:
+requires:
